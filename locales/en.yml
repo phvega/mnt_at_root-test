@@ -1,3 +1,4 @@
 ---
 en:
   path1: Path 1
+  missingTrans: This was localized with helper t(...)
